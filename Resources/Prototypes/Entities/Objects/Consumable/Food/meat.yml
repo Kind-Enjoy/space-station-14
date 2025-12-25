@@ -229,8 +229,8 @@
     state: bear
   - type: SolutionContainerManager
     solutions:
-      maxVol: 23 # StarCity: 18u + 5u extra
       food:
+        maxVol: 23 # StarCity: 18u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 9
@@ -263,8 +263,8 @@
     state: bird
   - type: SolutionContainerManager
     solutions:
-      maxVol: 23 # StarCity: 18u + 5u extra
       food:
+        maxVol: 23 # StarCity: 18u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 9
@@ -295,8 +295,8 @@
     state: bird
   - type: SolutionContainerManager
     solutions:
-      maxVol: 23 # StarCity: 18u + 5u extra
       food:
+        maxVol: 23 # StarCity: 18u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 9
@@ -329,8 +329,8 @@
     state: bird
   - type: SolutionContainerManager
     solutions:
-      maxVol: 23 # StarCity: 18u + 5u extra
       food:
+        maxVol: 23 # StarCity: 18u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 9
@@ -367,8 +367,8 @@
     state: corgi
   - type: SolutionContainerManager
     solutions:
-      maxVol: 25 # StarCity: 20u + 5u extra
       food:
+        maxVol: 25 # StarCity: 20u + 5u extra
         reagents:
         - ReagentId: Bicaridine
           Quantity: 20
@@ -398,8 +398,8 @@
     state: crab
   - type: SolutionContainerManager
     solutions:
-      maxVol: 8 # StarCity: 3u + 5u extra
       food:
+        maxVol: 8 # StarCity: 3u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 1
@@ -420,8 +420,8 @@
     state: goliath
   - type: SolutionContainerManager
     solutions:
-      maxVol: 13 # StarCity: 8u + 5u extra
       food:
+        maxVol: 13 # StarCity: 8u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 5
@@ -458,8 +458,8 @@
       shader: unshaded
   - type: SolutionContainerManager
     solutions:
-      maxVol: 15 # StarCity: 10u + 5u extra
       food:
+        maxVol: 15 # StarCity: 10u + 5u extra
         reagents:
         - ReagentId: Ichor
           Quantity: 10
@@ -493,8 +493,8 @@
     state: plain
   - type: SolutionContainerManager
     solutions:
-      maxVol: 11 # StarCity: 6u + 5u extra
       food:
+        maxVol: 11 # StarCity: 6u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 3
@@ -521,8 +521,8 @@
     state: lizard
   - type: SolutionContainerManager
     solutions:
-      maxVol: 23 # StarCity: 18u + 5u extra
       food:
+        maxVol: 23 # StarCity: 18u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 9
@@ -570,8 +570,8 @@
     state: rotten
   - type: SolutionContainerManager
     solutions:
-      maxVol: 18 # StarCity: 13u + 5u extra
       food:
+        maxVol: 18 # StarCity: 13u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 5
@@ -597,8 +597,8 @@
     state: spider
   - type: SolutionContainerManager
     solutions:
-      maxVol: 23 # StarCity: 18u + 5u extra
       food:
+        maxVol: 23 # StarCity: 18u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 9
@@ -621,8 +621,8 @@
     state: spiderleg
   - type: SolutionContainerManager
     solutions:
-      maxVol: 18 # StarCity: 13u + 5u extra
       food:
+        maxVol: 18 # StarCity: 13u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 10
@@ -683,8 +683,8 @@
     state: snake
   - type: SolutionContainerManager
     solutions:
-      maxVol: 17 # StarCity: 12u + 5u extra
       food:
+        maxVol: 17 # StarCity: 12u + 5u extra
         reagents:
         - ReagentId: UncookedAnimalProteins
           Quantity: 10
@@ -717,8 +717,8 @@
     state: xeno
   - type: SolutionContainerManager
     solutions:
-      maxVol: 25 # StarCity: 20u + 5u extra
       food:
+        maxVol: 25 # StarCity: 20u + 5u extra
         reagents:
         - ReagentId: SulfuricAcid
           Quantity: 20
@@ -755,8 +755,8 @@
     state: rouny
   - type: SolutionContainerManager
     solutions:
-      maxVol: 25 # StarCity: 20u + 5u extra
       food:
+        maxVol: 25 # StarCity: 20u + 5u extra
         reagents:
         - ReagentId: SulfuricAcid
           Quantity: 20
@@ -2068,8 +2068,8 @@
     state: salami-slice
   - type: SolutionContainerManager
     solutions:
-      maxVol: 5 # StarCity: 2u + 3u extra
       food:
+        maxVol: 5 # StarCity: 2u + 3u extra
         reagents:
         - ReagentId: Nutriment
           Quantity: 1
